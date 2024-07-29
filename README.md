@@ -9,5 +9,3 @@ mmdet3d == 1.0.0rc6
 
 # Architecture
 ![arc](https://github.com/user-attachments/assets/5617f39c-80ef-4c22-a032-425a43e05b56)
-
-# More Coming Soon ...
